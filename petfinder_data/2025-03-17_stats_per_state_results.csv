@@ -1,0 +1,56 @@
+state,count,top_breed,runner_up,top_f_name,top_m_name
+AK,60,Labrador Retriever,Husky,N/A,Oliver
+AL,833,Labrador Retriever,Terrier,Blondie,Finn
+AR,520,Labrador Retriever,Pit Bull Terrier,Bella,Max
+AZ,1790,Pit Bull Terrier,German Shepherd Dog,Lucy,Mickey
+CA,7184,German Shepherd Dog,Pit Bull Terrier,Luna,Rocky
+CO,925,Pit Bull Terrier,Labrador Retriever,Luna,Buddy
+CT,533,Labrador Retriever,Terrier,Daisy,Bruce
+DC,120,Labrador Retriever,Shepherd,N/A,Jimmy
+DE,86,Labrador Retriever,Terrier,Raven,Aaron Samuels
+FL,2922,Pit Bull Terrier,Labrador Retriever,Bella,Buddy
+GA,1700,Pit Bull Terrier,Labrador Retriever,Bella,Lucky
+GU,3,"Labrador Retriever, Shih Tzu",Affenpinscher,N/A,N/A
+HI,66,"Pit Bull Terrier, Labrador Retriever, Standard Poodle",Jack Russell Terrier,N/A,N/A
+IA,361,Labrador Retriever,Pit Bull Terrier,Luna,Blue
+ID,145,Labrador Retriever,"Husky, Border Collie",Bailey,Sam
+IL,1393,Pit Bull Terrier,Labrador Retriever,Luna,Duke
+IN,1036,Pit Bull Terrier,Labrador Retriever,Bella,Buddy
+KS,379,Pit Bull Terrier,Labrador Retriever,Molly,Shadow
+KY,630,Pit Bull Terrier,Labrador Retriever,Daisy,Duke
+LA,554,Labrador Retriever,Terrier,Molly,Louie
+MA,398,Labrador Retriever,Terrier,Molly,Joey
+MD,622,Pit Bull Terrier,Labrador Retriever,Lucy,Ace
+ME,128,Pit Bull Terrier,German Shepherd Dog,Luna,N/A
+MI,837,Pit Bull Terrier,Labrador Retriever,Luna,Prince
+MN,535,Pit Bull Terrier,Labrador Retriever,Daisy,Finn
+MO,879,Pit Bull Terrier,Labrador Retriever,Bella,Lucky
+MS,384,Labrador Retriever,Terrier,Lollipop,Blaze
+MT,107,Cattle Dog,Chihuahua,N/A,Beau
+NC,1279,Pit Bull Terrier,Labrador Retriever,Athena,Ace
+ND,69,Pit Bull Terrier,Shepherd,N/A,N/A
+NE,158,Boxer,Pit Bull Terrier,Harvest,Dobby
+NH,124,Pit Bull Terrier,Labrador Retriever,Luna,Boone
+NJ,799,Pit Bull Terrier,Labrador Retriever,Luna,Jasper
+NM,763,Pit Bull Terrier,German Shepherd Dog,Pepper,Bear
+NV,628,Pit Bull Terrier,German Shepherd Dog,Luna,Bear
+NY,1131,Labrador Retriever,Pit Bull Terrier,Daisy,Buddy
+OH,1310,Pit Bull Terrier,Labrador Retriever,Sadie,Jasper
+OK,602,Pit Bull Terrier,Labrador Retriever,Betty,Tank
+OR,342,Pit Bull Terrier,German Shepherd Dog,Lola,Oso
+PA,1072,Pit Bull Terrier,Labrador Retriever,Ruby,Max
+PR,27,"Chihuahua, Yellow Labrador Retriever, Labrador Retriever","Corgi, Husky, German Shepherd Dog, Beagle, American Staffordshire Terrier, American Bully",N/A,N/A
+RI,126,Labrador Retriever,Beagle,N/A,Duke
+SC,880,Labrador Retriever,American Staffordshire Terrier,Ruby,Maverick
+SD,40,Dachshund,Yellow Labrador Retriever,Daisy,N/A
+TN,1083,Pit Bull Terrier,Labrador Retriever,Daisy,Sam
+TX,6757,Labrador Retriever,Pit Bull Terrier,Luna,Max
+UT,350,Labrador Retriever,Australian Cattle Dog / Blue Heeler,Daisy,Rocky
+VA,1028,Pit Bull Terrier,Labrador Retriever,Athena,Blue
+VI,7,breeds unspecified,breeds unspecified,N/A,N/A
+VT,100,Labrador Retriever,Australian Cattle Dog / Blue Heeler,Missy,Rocky
+WA,785,Pit Bull Terrier,Chihuahua,Honey,Scout
+WI,590,Labrador Retriever,German Shepherd Dog,Lola,Finn
+WV,252,Pit Bull Terrier,Hound,Nova,Fred
+WY,100,Pit Bull Terrier,Border Collie,Daisy,Duke
+Total,45532,Pit Bull Terrier,Labrador Retriever,Luna,Max

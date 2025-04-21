@@ -1,0 +1,9 @@
+### Private ###
+###############
+credentials.py
+
+
+### Clutter ###
+###############
+.ipynb_checkpoints
+__pycache__
